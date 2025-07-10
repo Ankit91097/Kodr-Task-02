@@ -451,7 +451,6 @@ body {
 #page6 {
   height: 80%;
   width: 100%;
-  background-color: rebeccapurple;
   display: flex;
   align-items: end;
 }
